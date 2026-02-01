@@ -1,0 +1,33 @@
+File created on 3/12/2013 @ 10:57
+
+[header]
+satellites
+time
+latitude
+longitude
+velocity kmh
+heading
+height
+vertical velocity kmh
+Event 1 time
+
+[channel units]
+
+[comments]
+Racelogic
+GPS Time offset by -16 seconds
+GPS Firmware :  4.0 Dec,05,2011 b2
+VB3i version 0002.0000 build 0057
+Serial Number : 00031752
+Log Rate (Hz) : 100.00
+Kalman Filter - OFF
+Gps Optimisation : High Dynamics
+
+[module information]
+
+[column names]
+sats time lat long velocity heading height vert-vel event-1
+
+[data]
+019 105633.680 +3119.37247163 +0059.48225769 000.153 218.05 +0155.06 +0000.03 0.000000
+019 105633.690 +3119.37247162 +0059.48225730 000.149 209.09 +0155.06 +0000.03 0.000000

@@ -13,7 +13,7 @@ It will perform a couple of conversions on the data:
     - lat_deg
     - long_deg 
 
-Initially, it was expected that vboxread would nede to do a wide variety of tasks, but we're now primarily using it to convert to CSV and then processing CSV files with other tools.
+Initially, it was expected that vboxread would need to do a wide variety of tasks, but we're now primarily using it to convert to CSV and then processing CSV files with other tools.
 
 ## Basic use
 

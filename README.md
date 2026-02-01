@@ -98,4 +98,4 @@ A simpler alternative is to build your virtualenv allowing access to the system 
 Some information available [here][1].
 
 
-[1]: https://racelogic.support/01VBOX_Automotive/01VBOX_data_loggers/VBOX_3i_Range/Knowledge_base/VBO_file_format
+[1]: https://en.racelogic.support/Knowledge_Base/.VBO_Files
